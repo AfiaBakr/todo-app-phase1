@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"I:\\\\Afia All Works\\\\Governer Generative AI Course\\\\GIAIC-Q4\\\\hackathons\\\\hackathon-II\\\\todo_phase1\" config user.name)"
+    ]
+  }
+}
