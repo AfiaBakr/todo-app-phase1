@@ -1,4 +1,4 @@
-# Hackathon II
+# Hackathon-II Phase-I
 
 ## The Evolution of Todo – Mastering Spec-Driven Development & Cloud Native AI
 
